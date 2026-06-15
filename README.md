@@ -1,4 +1,4 @@
-# ✦ Merhaba, Ben Mahmut Enes Ergül👋
+# Merhaba, Ben Mahmut Enes Ergül👋
 
 Full Stack Developer olarak ölçeklenebilir, temiz ve modern web uygulamaları geliştiriyorum. Front-end dünyasında dinamik ve estetik arayüzler inşa ederken, back-end tarafında güçlü ve güvenli mimariler kurmaya odaklanıyorum.
 
